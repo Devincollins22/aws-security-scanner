@@ -1,0 +1,4 @@
+# ==== Secrets & AWS credentials ====
+
+.env
+.env.*
