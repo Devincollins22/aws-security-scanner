@@ -1,4 +1,7 @@
 # ==== Secrets & AWS credentials ====
-
 .env
-.env.*
+credentials
+.aws/
+
+# ==== Python virtual environment ====
+venv/
